@@ -1,8 +1,8 @@
-// Copyright 2020 ivan <ikhonyak@gmail.com>
+// Copyright 2021 Roman <roman.sekin.90@mail.ru>
 #include "hashCalc.hpp"
 
 int main(int, char*[]) {
-  hashCalc A("/home/ivan/lab-06-multithreads/map.json");
+  hashCalc A("/home/roflanxdxdxd/Lab06/map.json");
   A.initLogs();
   A.initThreads();
   return 0;
